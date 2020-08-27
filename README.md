@@ -1,1 +1,2 @@
-# Prueba de Git EDTEAM 
+# Prueba de Git
+[Detalles de pruebas] 
